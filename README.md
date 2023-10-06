@@ -8,7 +8,7 @@
 {"user": "", "token": "", "url": ""}
 ```
 
-* The *user* is a valid es-mail user from you Jira account
+* The *user* is a valid e-mail user from you Jira account
 * The *token* is a App created token in the Jira panel
 * The *url* is a valid project URL you want to use
 
